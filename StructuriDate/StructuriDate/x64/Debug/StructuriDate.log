@@ -1,0 +1,4 @@
+﻿  entryPoint.c
+C:\Users\alinN\source\repos\StructuriDate\StructuriDate\entryPoint.c(39,24): warning C4113: 'void (__cdecl *)(User)' differs in parameter lists from 'void (__cdecl *)(void *)'
+C:\Users\alinN\source\repos\StructuriDate\StructuriDate\entryPoint.c(42,24): warning C4113: 'void (__cdecl *)(User)' differs in parameter lists from 'void (__cdecl *)(void *)'
+  StructuriDate.vcxproj -> C:\Users\alinN\source\repos\StructuriDate\x64\Debug\StructuriDate.exe

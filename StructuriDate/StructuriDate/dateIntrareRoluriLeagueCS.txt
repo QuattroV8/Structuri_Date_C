@@ -1,0 +1,5 @@
+0 | Membru
+1 | Utilizator Premium
+2 | Moderator 
+3 | Super Moderator
+4 | Administrator
